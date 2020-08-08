@@ -1,4 +1,4 @@
-// Uses mac directory as default directory with updated keycodes
+    // Uses mac directory as default directory with updated keycodes
 
 #include QMK_KEYBOARD_H
 
